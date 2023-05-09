@@ -1,0 +1,60 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun May 07 20:51:17 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000178
+      .config_2007_CODE.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x0000bf      
+                            0x002007    0x002007      
+            190 out of 8454 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+        BOXES_REACHES_MAX   0x00002f    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+        BOXES_REACHES_MIN   0x000028    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+          BUZZ_AND_UPDATE   0x000036    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                    CASE1   0x00003b    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                    CASE2   0x000044    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+          CONVERT_COUNTER   0x00004d    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+              DELAY_500MS   0x000090    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                DELAY_5MS   0x00009d    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                     MAIN   0x00000c    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                   REPEAT   0x000017    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                    SETUP   0x0000aa    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+             SHOW_COUNTER   0x000059    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+          SHOW_ON_DISPLAY   0x000066    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     MAIN   0x00000c    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                   REPEAT   0x000017    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+        BOXES_REACHES_MIN   0x000028    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+        BOXES_REACHES_MAX   0x00002f    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+          BUZZ_AND_UPDATE   0x000036    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                    CASE1   0x00003b    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                    CASE2   0x000044    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+          CONVERT_COUNTER   0x00004d    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+             SHOW_COUNTER   0x000059    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+          SHOW_ON_DISPLAY   0x000066    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+              DELAY_500MS   0x000090    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                DELAY_5MS   0x00009d    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+                    SETUP   0x0000aa    program     static C:\Users\User\Desktop\jordan box counter\code.asm
+
+
